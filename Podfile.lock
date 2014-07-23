@@ -1,0 +1,19 @@
+PODS:
+  - Straw (0.4.0)
+  - StrawServiceHttp (0.0.3):
+    - Straw (~> 0.4.0)
+
+DEPENDENCIES:
+  - Straw (~> 0.4.0)
+  - StrawServiceHttp (from `https://github.com/strawjs/straw-ios-service-http.git`, tag `v0.0.3`)
+
+EXTERNAL SOURCES:
+  StrawServiceHttp:
+    :git: https://github.com/strawjs/straw-ios-service-http.git
+    :tag: v0.0.3
+
+SPEC CHECKSUMS:
+  Straw: afb83cc29c5b39b51f534d32c9106d6d03810cb0
+  StrawServiceHttp: 22f3f8e4757c1d4432043c67415b7bc793d13164
+
+COCOAPODS: 0.33.1
