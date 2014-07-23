@@ -1,0 +1,6 @@
+[
+    "-workspace", "whatsmyip.xcworkspace",
+    "-scheme", "whatsmyip",
+    "-configuration", "Debug",
+    "-sdk", "iphonesimulator"
+]
