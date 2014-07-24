@@ -19,6 +19,7 @@
 		19F9BFC3197F15120000E38D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F9BFAB197F15120000E38D /* UIKit.framework */; };
 		19F9BFCB197F15120000E38D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 19F9BFC9197F15120000E38D /* InfoPlist.strings */; };
 		19F9BFCD197F15120000E38D /* whatsmyipTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 19F9BFCC197F15120000E38D /* whatsmyipTests.m */; };
+		19F9BFDA1981653A0000E38D /* www in Resources */ = {isa = PBXBuildFile; fileRef = 19F9BFD91981653A0000E38D /* www */; };
 		C486D0C592AB4DC29BB14F7F /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5653544A4642E08E38F3D9 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -49,6 +50,7 @@
 		19F9BFC8197F15120000E38D /* whatsmyipTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "whatsmyipTests-Info.plist"; sourceTree = "<group>"; };
 		19F9BFCA197F15120000E38D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		19F9BFCC197F15120000E38D /* whatsmyipTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = whatsmyipTests.m; sourceTree = "<group>"; };
+		19F9BFD91981653A0000E38D /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };
 		7A69BBC5EE7243AF865AB7F5 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		CE5653544A4642E08E38F3D9 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -113,6 +115,7 @@
 		19F9BFAD197F15120000E38D /* whatsmyip */ = {
 			isa = PBXGroup;
 			children = (
+				19F9BFD91981653A0000E38D /* www */,
 				19F9BFB6197F15120000E38D /* KT3AppDelegate.h */,
 				19F9BFB7197F15120000E38D /* KT3AppDelegate.m */,
 				19F9BFB9197F15120000E38D /* Images.xcassets */,
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19F9BFDA1981653A0000E38D /* www in Resources */,
 				19F9BFB2197F15120000E38D /* InfoPlist.strings in Resources */,
 				19F9BFBA197F15120000E38D /* Images.xcassets in Resources */,
 			);
