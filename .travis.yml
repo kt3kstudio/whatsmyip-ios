@@ -2,6 +2,9 @@ language: objective-c
 
 before_install:
 - gem install cocoapods
+- bundle install
+- npm install -g bower
+- bower install
 
 script:
-- xctool test
+- bundle exec middleman build && xctool test
