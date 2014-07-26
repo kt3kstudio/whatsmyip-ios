@@ -3,3 +3,6 @@ Pods
 
 # middleman build dir
 whatsmyip/www
+
+# bower components
+bower_components
