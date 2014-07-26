@@ -1,0 +1,20 @@
+{
+  "name": "whatsmyip",
+  "version": "0.0.0",
+  "authors": [
+    "Yoshiya Hinosawa <stibium121@gmail.com>"
+  ],
+  "description": "find your ip address",
+  "main": "config.rb",
+  "keywords": [
+    "app",
+    "ip",
+    "address"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
