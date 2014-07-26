@@ -4,6 +4,11 @@ set :source, 'm'
 
 set :build_dir, 'whatsmyip/www'
 
+# bower directory
+ready do
+  sprockets.append_path File.join root, "bower_components"
+end
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
