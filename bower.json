@@ -16,5 +16,9 @@
     "**/.*",
     "node_modules",
     "bower_components"
-  ]
+  ],
+  "dependencies": {
+    "straw-ios": "~0.3.4",
+    "straw-ios-service-http": "~0.1.2"
+  }
 }
