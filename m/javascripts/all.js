@@ -1,3 +1,5 @@
+//= require jquery
+//= require bootstrap
 //= require t10
 //= require straw-ios
 //= require es6-promise
