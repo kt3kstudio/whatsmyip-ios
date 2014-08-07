@@ -22,6 +22,7 @@
     "straw-ios-service-http": "~0.1.2",
     "t10": "~0.1.0",
     "jquery": "~2.1.1",
-    "bootstrap": "~3.2.0"
+    "bootstrap": "~3.2.0",
+    "flag-sprite": "https://github.com/kt3k/flag-sprite.git#~0.2.0"
   }
 }
