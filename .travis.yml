@@ -2,9 +2,8 @@ language: objective-c
 
 before_install:
 - gem install cocoapods
-- bundle install
 - npm install -g bower
 - bower install
 
 script:
-- bundle exec middleman build && xctool test
+- cd bower_components/whatsmyip-core && bundle exec middleman build && cd - && xctool test
