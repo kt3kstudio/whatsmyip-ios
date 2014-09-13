@@ -6,3 +6,6 @@ whatsmyip/www
 
 # bower components
 bower_components
+
+# xcode user data
+xcuserdata
