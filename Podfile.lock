@@ -2,13 +2,17 @@ PODS:
   - Straw (0.5.4)
   - StrawServiceHttp (0.1.1):
     - Straw (~> 0.5.0)
+  - StrawServiceLocale (0.1.1):
+    - Straw (~> 0.5.0)
 
 DEPENDENCIES:
   - Straw (~> 0.5.2)
   - StrawServiceHttp (~> 0.1.1)
+  - StrawServiceLocale (~> 0.1.1)
 
 SPEC CHECKSUMS:
   Straw: cdd5f41caa38e14dbdc39526430fea8fca2d9340
   StrawServiceHttp: 73717360a418b0262e7f30c9513e11b1a3480d9e
+  StrawServiceLocale: 17ddf39b919cbc3b63650665b3dac6eefa86ee75
 
 COCOAPODS: 0.33.1
