@@ -20,7 +20,7 @@
   "dependencies": {
     "straw-ios": "~0.3.4",
     "straw-ios-service-http": "~0.1.3",
-    "whatsmyip-core": "https://github.com/app-kt3k-com/whatsmyip-core.git#~0.0.7",
+    "whatsmyip-core": "https://github.com/app-kt3k-com/whatsmyip-core.git#~0.1.1",
     "straw-ios-service-locale": "~0.1.0"
   }
 }
