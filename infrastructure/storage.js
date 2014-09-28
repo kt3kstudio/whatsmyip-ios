@@ -19,7 +19,7 @@ window.infrastructure.storage = (function (Promise, localStorage) {
 
     exports.set = function (key, value) {
 
-        localStorage[key] = JSON.strigify(value);
+        localStorage[key] = JSON.stringify(value);
 
         return Promise.resolve(true);
 
