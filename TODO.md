@@ -2,14 +2,14 @@
 
 - infrastructure.platformUI
   - straw-ios-service-toast
-    - using iToast? git@github.com:ecstasy2/toast-notifications-ios.git
+    - use https://github.com/scalessec/toast
 - infrastructure.externalService
-  - straw-ios-service-appstore
-  - straw-ios-service-browser (?)
+  - straw-ios-service-browser
 
 - UI incompatibility
   - app store icon problem
   - back button
+    - just write on whatsmyip-core
 
 - dev connection
 - sign app
