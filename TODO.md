@@ -1,8 +1,5 @@
 # TODO
 
-- infrastructure.platformUI
-  - straw-ios-service-toast
-    - use https://github.com/scalessec/toast
 - infrastructure.externalService
   - straw-ios-service-browser
 
@@ -17,7 +14,9 @@
 - release !
 
 # DONE
+- infrastructure.platformUI
+  - straw-ios-service-toast
+    - use https://github.com/scalessec/toast
 - infrastructure.http
 - infrastructure.locale
 - infrastructure.storage
-
