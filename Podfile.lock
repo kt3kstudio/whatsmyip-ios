@@ -4,15 +4,22 @@ PODS:
     - Straw (~> 0.5.0)
   - StrawServiceLocale (0.1.1):
     - Straw (~> 0.5.0)
+  - StrawServiceToast (0.1.4):
+    - Straw (~> 0.5.0)
+    - Toast (~> 2.3)
+  - Toast (2.3)
 
 DEPENDENCIES:
   - Straw (~> 0.5.2)
   - StrawServiceHttp (~> 0.1.1)
   - StrawServiceLocale (~> 0.1.1)
+  - StrawServiceToast (~> 0.1.4)
 
 SPEC CHECKSUMS:
   Straw: cdd5f41caa38e14dbdc39526430fea8fca2d9340
   StrawServiceHttp: 5725387fa32742d024ff6cdd033fdd4b12700fe1
   StrawServiceLocale: 17ddf39b919cbc3b63650665b3dac6eefa86ee75
+  StrawServiceToast: d8eabe00ad1e6c20dcb24609e186a5bb9e5d7b64
+  Toast: 1d773017c5d2e7b1d90565a5f9530340e6eeff72
 
 COCOAPODS: 0.33.1
