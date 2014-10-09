@@ -4,7 +4,12 @@
 
 - (NSArray *)strawServices
 {
-    return @[[STWServiceHttp class], [STWServiceLocale class], [StrawServiceToast class]];
+    return @[
+        [STWServiceHttp class],
+        [STWServiceLocale class],
+        [StrawServiceToast class],
+        [StrawServiceBrowser class]
+    ];
 }
 
 @end

@@ -1,5 +1,7 @@
 PODS:
   - Straw (0.5.4)
+  - StrawServiceBrowser (0.1.3):
+    - Straw (~> 0.5.0)
   - StrawServiceHttp (0.1.2):
     - Straw (~> 0.5.0)
   - StrawServiceLocale (0.1.1):
@@ -11,12 +13,14 @@ PODS:
 
 DEPENDENCIES:
   - Straw (~> 0.5.2)
+  - StrawServiceBrowser (~> 0.1.3)
   - StrawServiceHttp (~> 0.1.1)
   - StrawServiceLocale (~> 0.1.1)
   - StrawServiceToast (~> 0.1.4)
 
 SPEC CHECKSUMS:
   Straw: cdd5f41caa38e14dbdc39526430fea8fca2d9340
+  StrawServiceBrowser: b5f60212a74be7bfbaecd7ca293b32f7d08b6f95
   StrawServiceHttp: 5725387fa32742d024ff6cdd033fdd4b12700fe1
   StrawServiceLocale: 17ddf39b919cbc3b63650665b3dac6eefa86ee75
   StrawServiceToast: d8eabe00ad1e6c20dcb24609e186a5bb9e5d7b64
