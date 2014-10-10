@@ -1,8 +1,4 @@
 # TODO
-
-- infrastructure.externalService
-  - straw-ios-service-browser
-
 - UI incompatibility
   - app store icon problem
   - back button
@@ -14,6 +10,8 @@
 - release !
 
 # DONE
+- infrastructure.externalService - done
+  - straw-ios-service-browser
 - infrastructure.platformUI
   - straw-ios-service-toast
     - use https://github.com/scalessec/toast
